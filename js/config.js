@@ -150,37 +150,6 @@ fantasy.config = {
 				GOLFERS.PHIL_MICKELSON
 			]
 		},
-
-		{
-			name: 'Jim1',
-			golfers: [
-				GOLFERS.JORDAN_SPIETH,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.BUBBA_WATSON,
-				GOLFERS.JASON_DAY,
-				GOLFERS.ALEX_NOREN
-			]
-		},
-		{
-			name: 'Jim2',
-			golfers: [
-				GOLFERS.JORDAN_SPIETH,
-				GOLFERS.TIGER_WOODS,
-				GOLFERS.JUSTIN_ROSE,
-				GOLFERS.JON_RAHM,
-				GOLFERS.RICKIE_FOWLER
-			]
-		},
-		{
-			name: 'MattW',
-			golfers: [
-				GOLFERS.JORDAN_SPIETH,
-				GOLFERS.DUSTIN_JOHNSON,
-				GOLFERS.HIDEKI_MATSUYAMA,
-				GOLFERS.LOUIS_OOSTHUIZEN,
-				GOLFERS.KEVIN_KISNER
-			]
-		},
 		{
 			name: 'GrantG',
 			golfers: [
